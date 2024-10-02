@@ -1,5 +1,5 @@
 import sqlite3
-token = "1870308450:AAGGG_MkQfP-eglZz9C9QXFthG1p_7OJAio"  # Your token
+token = "token"  # Your token
 chat_id = "-1001572933390"
 
 conn = sqlite3.connect('ledo.db', check_same_thread=False)
